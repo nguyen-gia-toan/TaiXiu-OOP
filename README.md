@@ -362,8 +362,8 @@
   
   **Kết quả:** Các biểu đồ về biến động số dư và tỷ lệ lợi nhuận sẽ được hiển thị hoặc lưu dưới dạng hình ảnh.  
 - ## 📁 Cấu trúc dự án
-- `main.cpp`: Mã nguồn chính thực hiện logic mô phỏng và quản lý các lớp (NhaCai, ConBac, MoPhong).
-- `plot_results.py`: Script Python xử lý dữ liệu và vẽ biểu đồ.
+- `TaiXiu.cpp`: Mã nguồn chính thực hiện logic mô phỏng và quản lý các lớp (NhaCai, ConBac, MoPhong).
+- `plot.py`: Script Python xử lý dữ liệu và vẽ biểu đồ.
 - `*.csv`: Các file dữ liệu trung gian được tạo ra sau khi chạy C++.
 - ## 📊 Các chiến thuật được mô phỏng
 - **Cố định (Fixed Bet):** Luôn đặt một mức cược duy nhất.
