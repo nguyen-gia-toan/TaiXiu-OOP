@@ -1,3 +1,4 @@
+# OOP - TÀI XỈU
 - [Slides trình bày](https://www.canva.com/design/DAHIuCPVGoo/r6ZzTTugDx_R_Di2VVKHdA/edit)
 - Dự án này sử dụng lập trình hướng đối tượng (OOP) trong C++ để mô phỏng và phân tích hiệu quả của các chiến thuật đặt cược khác nhau trong trò chơi Tài Xỉu. Dữ liệu sau khi mô phỏng sẽ được xử lý và vẽ biểu đồ bằng Python để đưa ra cái nhìn trực quan về rủi ro và lợi nhuận.
 - ## 📌 Tính năng chính
